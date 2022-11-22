@@ -1,3 +1,4 @@
 git-Github
-git github deneme
+git github deneme 
+ikinci gn asli branch i
                
